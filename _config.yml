@@ -3,7 +3,7 @@ title:
 subtitle: 
 email: gianroccolazzari@protonmail.com
 description: Computational Scientist | Outdoor passionate
-baseurl: "/mysite" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 # author:
 # street_address: 
