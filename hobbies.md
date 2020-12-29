@@ -13,11 +13,10 @@ nav-menu: true
 
 
 <!-- Two -->
-<!-- mind that putting the 'title' in <a> does not render online -- on github--   -->
 <section id="one" class="spotlights">
 	<section>
-		<a href="generic.html" class="image" >
-			<img src="{% link assets/images/champex_lac_hike.jpg %}" data-position="center center" alt="from the summit of 'La Breya'" title="from the summit of 'La Breya'" />
+		<a href="generic.html" class="image" title="from the summit of 'La Breya'">
+			<img src="{% link assets/images/champex_lac_hike.jpg %}" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -29,8 +28,8 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/belaying.png %}" alt="belaying my friend Maxime in 'Bravo Lapp'" title="belaying my friend Maxime in 'Bravo Lapp'" data-position="top center" />
+		<a href="generic.html" class="image" title="belaying my friend Maxime in 'Bravo Lapp'">
+			<img src="{% link assets/images/belaying.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -43,8 +42,8 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image" >
-			<img src="{% link assets/images/lespleiades.jpg %}" alt="little hike in 'Les Pleiades'" title="little hike in 'Les Pleiades'" data-position="25% 25%" />
+		<a href="generic.html" class="image" title="little hike in 'Les Pleiades'">
+			<img src="{% link assets/images/lespleiades.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
