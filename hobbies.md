@@ -16,7 +16,7 @@ nav-menu: true
 <section id="one" class="spotlights">
 	<section>
 		<a href="generic.html" class="image" title="from the summit of 'La Breya'">
-			<img src="{{ site.baseurl }} {% link assets/images/champex_lac_hike.jpg %}" data-position="center center" />
+			<img src="{{ site.baseurl }}{% link assets/images/champex_lac_hike.jpg %}" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -29,7 +29,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image" title="belaying my friend Maxime in 'Bravo Lapp'">
-			<img src="{{ site.baseurl }} {% link assets/images/belaying.png %}" alt="" data-position="top center" />
+			<img src="{{ site.baseurl }}{% link assets/images/belaying.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -43,7 +43,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image" title="little hike in 'Les Pleiades'">
-			<img src="{{ site.baseurl }} {% link assets/images/lespleiades.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{{ site.baseurl }}{% link assets/images/lespleiades.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
