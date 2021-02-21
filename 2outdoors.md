@@ -22,13 +22,13 @@ nav-menu: true
 			<div class="inner">
 				<header class="major">
 					<h3>Hiking</h3></header>
-				<p>Partial list of recent *summer* hikes</p>
+				<p>summer hikes</p>
 				<p>(coming soon)</p>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image" title="belaying my friend Maxime in 'Bravo Lapp'">
+		<a href="climbs.html" class="image" title="belaying my friend Maxime in 'Bravo Lapp'">
 			<img src="{{ site.baseurl }}{% link assets/images/belaying.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -36,7 +36,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Climbing</h3>
 				</header>
-				<p>Few recent multi pitch climbs.</p>
+				<p>multi pitch & Via Ferrata</p>
 				<p>(coming soon)</p>
 			</div>
 		</div>
@@ -50,7 +50,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Winter</h3>
 				</header>
-				<p>Partial list of recent snow-shoes / ski hikes.</p>
+				<p>snow-shoes / ski hikes</p>
 				<p>(coming soon)</p>
 			</div>
 		</div>
