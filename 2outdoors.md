@@ -22,7 +22,7 @@ nav-menu: true
 			<div class="inner">
 				<header class="major">
 					<h3>Hiking</h3></header>
-				<p>summer hikes</p>
+				<p>summer / fall hikes</p>
 				<p>(coming soon)</p>
 			</div>
 		</div>
