@@ -7,9 +7,16 @@ nav-menu: false
 show_tile: false
 ---
 
-(click next to column title to sort it)
+
+I want to thanks Mr. Visinand, whose nice and simple blog <a href="http://visinand.ch/">http://visinand.ch/</a>  has been as source of inspiration, especially at the beginning of experience with via ferrata.
+
+Nowadays, one can find many ideas, for many mountain sports in the very well done 
+<a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/">portail-des-courses-du-cas</a> (by the suisse alpin club)  
+
 
 # Vie Ferrate
+
+(sortable table)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
