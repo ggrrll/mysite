@@ -66,7 +66,7 @@ show_tile: false
     <td class="tg-0lax"> <a href="winter/leschaux.html">  les Chaux </a> </td>
     <td class="tg-0lax">30/12/2020</td>
     <td class="tg-0lax">le Sepey (VD/CH)</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">nice powder :) | easy tour for beginners</td>
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/8689/ski_tour">CAS portal </a></td>    
   </tr>
   <tr>
