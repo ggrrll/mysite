@@ -15,7 +15,7 @@ nav-menu: true
 <!-- Two -->
 <section id="one" class="spotlights">
 	<section>
-		<a href="summer_hikes.html" class="image" title="from the summit of 'La Breya'">
+		<a href="summer_outings.html" class="image" title="from the summit of 'La Breya'">
 			<img src="{{ site.baseurl }}{% link assets/images/champex_lac_hike.jpg %}" data-position="center center" />
 		</a>
 		<div class="content">
