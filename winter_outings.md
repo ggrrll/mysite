@@ -6,7 +6,7 @@ image:
 show_tile: false 
 ---
 
-
+(click on summit name for pictures :))
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -35,21 +35,21 @@ show_tile: false
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="winter/pointebellevue.html"> pointe de bellevue </a></td>
+    <td class="tg-0lax"><a href="winter/pointebellevue.html"> Pointe de bellevue </a></td>
     <td class="tg-0lax">16/12/2020</td>
     <td class="tg-0lax">Morgins (VS/CH)</td>
     <td class="tg-0lax">(with CAS Lausanne) ice & grass at the bottom and very icy snow on the rest  (often this south face has bad snow conditions, for ski) -- the view is one of the best, as you get can see the Alps, the Jura and the lac Leman</td>
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/pointe-de-bellevue-158/randonnee-a-ski/">CAS portal</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="./winter/wildstrubel.html">wildstrubel </a></td>
+    <td class="tg-0lax"><a href="./winter/wildstrubel.html"> Wildstrubel </a></td>
     <td class="tg-0lax">26/02/2021</td>
     <td class="tg-0lax">Crans-Montana (VS/CH)</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"> <a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/wildstrubel-lenkerstrubel-2218/randonnee-a-ski/">CAS portal </a> </td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="./winter/pointe_gros_six.html">Pointe des gros six></a> </td>
+    <td class="tg-0lax"><a href="./winter/pointe_gros_six.html">Pointe des gros six</a> </td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">bourg st Pierre (VS/CH)</td>
     <td class="tg-0lax">(with CAS Lausanne) very long excursion | on that day, completely frozen snow</td>
