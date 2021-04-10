@@ -36,28 +36,35 @@ show_tile: false
 <tbody>
   <tr>
     <td class="tg-0lax"><a href="winter/pointebellevue.html"> Pointe de bellevue </a></td>
-    <td class="tg-0lax">16/12/2020</td>
+    <td class="tg-0lax">2020/12/16</td>
     <td class="tg-0lax">Morgins (VS/CH)</td>
     <td class="tg-0lax">(with CAS Lausanne) ice & grass at the bottom and very icy snow on the rest  (often this south face has bad snow conditions, for ski) -- the view is one of the best, as you get can see the Alps, the Jura and the lac Leman</td>
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/pointe-de-bellevue-158/randonnee-a-ski/">CAS portal</a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="./winter/wildstrubel.html"> Wildstrubel </a></td>
-    <td class="tg-0lax">26/02/2021</td>
+    <td class="tg-0lax">2021/02/26</td>
     <td class="tg-0lax">Crans-Montana (VS/CH)</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">a classical 3000m, with an easy glacier crossing -- technical S-ridge: be careful as it is often frozen (we walked on the last m)</td>
     <td class="tg-0lax"> <a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/wildstrubel-lenkerstrubel-2218/randonnee-a-ski/">CAS portal </a> </td>
+  </tr>
+    <tr>
+    <td class="tg-0lax"><a href="./winter/5_summits_diablerets.html"> 5-summits traversée  </a></td>
+    <td class="tg-0lax">2021/04/08</td>
+    <td class="tg-0lax"> Col du Pillon (VD/CH)</td>
+    <td class="tg-0lax">(with CAS Lausanne) very long traversée (9h) with >1600m of altitude gap //  very nice ski session, thanks to the fresh snow (late season)</td>
+    <td class="tg-0lax"> <a href="https://s.geo.admin.ch/8fe7af5680"> tour on geo.admin </a> and the tour for the <a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/walighuerli-8263/randonnee-a-ski/">last summit (walighuerli) </a> </td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="./winter/pointe_gros_six.html">Pointe des gros six</a> </td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">2021/03/05</td>
     <td class="tg-0lax">bourg st Pierre (VS/CH)</td>
     <td class="tg-0lax">(with CAS Lausanne) very long excursion | on that day, completely frozen snow</td>
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/pointe-des-gros-six-8555/randonnee-a-ski/">CAS portal</a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="./winter/mont_de_etoile.html">Mont de l'Etoile (3369 m)</a></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">2021/03/30</td>
     <td class="tg-0lax">Evolene (VS/CH)</td>
     <td class="tg-0lax">(with CAS Lausanne) beautiful day, for both weather and ambience among participants, mostly thanks to the outing leader LH :) -- mind that in winter, the final S-SW ridge can be quite challenging (note the level: AD-)</td>
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/mont-de-letoile-9083/randonnee-a-ski/">CAS portal</a></td>
@@ -66,28 +73,28 @@ show_tile: false
     <td class="tg-0lax">Niremont</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">les Paccots (VD/CH)</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">nice little hike in the Paccot area, suitable for beginners</td>
     <td class="tg-0lax"></td>
   </tr>
     <tr>
     <td class="tg-0lax"> <a href="winter/leschaux.html">  les Chaux </a> </td>
-    <td class="tg-0lax">30/12/2020</td>
+    <td class="tg-0lax">2020/12/30</td>
     <td class="tg-0lax">le Sepey (VD/CH)</td>
     <td class="tg-0lax">nice powder :) | easy tour for beginners</td>
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/8689/ski_tour">CAS portal </a></td>    
   </tr>
   <tr>
     <td class="tg-0lax"><a href="winter/dole.html"> la Dole </a></td>
-    <td class="tg-0lax">06/12/2020</td>
+    <td class="tg-0lax">2020/12/06</td>
     <td class="tg-0lax">st Sergue / la Givrine</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">a classical hike, suitable for all seasons, and good for beginners</td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="./winter/attenberg.html">Attenberg</a> </td>
-    <td class="tg-0lax">31/01/2021</td>
+    <td class="tg-0lax">2021/01/31</td>
     <td class="tg-0lax">lac noir (FR/CH)</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">very warm day, despite the period of the year; unfortunately, also very foggy on theway down; nice view on the lac noir and Fribourg area</td>
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/8177/ski_tour">CAS touring portal</a></td>
   </tr>
 </tbody>
