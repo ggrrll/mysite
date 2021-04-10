@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tour de Mayen 		
+title: Pic Chaussy 		
 description: hike 
 image:
 show_tile: false 

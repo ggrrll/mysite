@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pointe de Bellevue		
+title: Mont de l'Etoile		
 description: ski tour
 image:
 show_tile: false 
