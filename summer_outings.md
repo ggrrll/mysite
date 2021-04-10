@@ -41,12 +41,19 @@ show_tile: false
     <td class="tg-0lax">a classical very nice hike, suitable in all seasons (be careful on winter: avalanche risk)</td>
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/pic-chaussy-361/randonnee-en-raquettes/">CAS portal -- snowshoes tour</a></td>
   </tr>
-    <tr>
+  <tr>
     <td class="tg-0lax"><a href="summer/dent_de_lys.html"> Dent de Lys (2013 m)</a></td>
     <td class="tg-0lax">2020/10/25</td>
     <td class="tg-0lax"> Les Paccots (VD/CH)</td>
     <td class="tg-0lax">very technical hike due to the final part, on the sharp ridge</td>
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/dent-de-lys-1086/randonnee-en-montagne/"> CAS portal </a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><a href="summer/la_breya.html">  La Breya ( m)</a></td>
+    <td class="tg-0lax">2020/11/15</td>
+    <td class="tg-0lax"> Champex lac (VS/CH)</td>
+    <td class="tg-0lax">nice hike above lake of Champex</td>
+    <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/235/archive/"> CAS portal </a></td>
   </tr>
     <tr>
     <td class="tg-0lax"><a href="summer/tour_de_mayen.html"> Tour  de Mayen (2327 m) </a></td>

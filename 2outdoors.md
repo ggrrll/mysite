@@ -23,7 +23,6 @@ nav-menu: true
 				<header class="major">
 					<h3>Hiking</h3></header>
 				<p>summer / fall hikes</p>
-				<p>(coming soon)</p>
 			</div>
 		</div>
 	</section>
@@ -37,7 +36,6 @@ nav-menu: true
 					<h3>Climbing</h3>
 				</header>
 				<p>multi pitch & Via Ferrata</p>
-				<p>(coming soon)</p>
 			</div>
 		</div>
 	</section>
@@ -51,7 +49,6 @@ nav-menu: true
 					<h3>Winter</h3>
 				</header>
 				<p>snow-shoes / ski hikes</p>
-				<p>(coming soon)</p>
 			</div>
 		</div>
 	</section>
