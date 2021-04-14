@@ -42,6 +42,13 @@ show_tile: false
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/pointe-de-bellevue-158/randonnee-a-ski/">CAS portal</a></td>
   </tr>
   <tr>
+    <td class="tg-0lax"><a href="winter/les_arpilles.html"> Les Arpilles / Tete a Josue </a></td>
+    <td class="tg-0lax">2021/03/19</td>
+    <td class="tg-0lax">Etivaz (VD/CH)</td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/les-arpilles-tete-a-josue-8295/randonnee-a-ski/">CAS portal</a></td>
+  </tr>  
+  <tr>
     <td class="tg-0lax"><a href="./winter/wildstrubel.html"> Wildstrubel </a></td>
     <td class="tg-0lax">2021/02/26</td>
     <td class="tg-0lax">Crans-Montana (VS/CH)</td>
