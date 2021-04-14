@@ -42,6 +42,13 @@ show_tile: false
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/pic-chaussy-361/randonnee-en-raquettes/">CAS portal -- snowshoes tour</a></td>
   </tr>
   <tr>
+    <td class="tg-0lax"><a href="summer/pointe_des_savolaires.html"> Pointe des Savolaires (2239 m) / Col de Pauvres</a> </td>
+    <td class="tg-0lax">2020/11/22</td>
+    <td class="tg-0lax">Bex (VD/CH)</td>
+    <td class="tg-0lax"> (a little slippery on winter)</td>
+    <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/9793/mountain_hiking"> CAS portal</a></td>
+  </tr>  
+  <tr>
     <td class="tg-0lax"><a href="summer/dent_de_lys.html"> Dent de Lys (2013 m)</a></td>
     <td class="tg-0lax">2020/10/25</td>
     <td class="tg-0lax"> Les Paccots (VD/CH)</td>
@@ -49,7 +56,7 @@ show_tile: false
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/dent-de-lys-1086/randonnee-en-montagne/"> CAS portal </a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="summer/la_breya.html">  La Breya ( m)</a></td>
+    <td class="tg-0lax"><a href="summer/la_breya.html">  La Breya (2373 m)</a></td>
     <td class="tg-0lax">2020/11/15</td>
     <td class="tg-0lax"> Champex lac (VS/CH)</td>
     <td class="tg-0lax">nice hike above lake of Champex</td>
