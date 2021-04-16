@@ -128,8 +128,8 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Lavanchy </td>
-    <td class="tg-0lax">??/03/2017</td>
+    <td class="tg-0lax"> <a href="vieferrate/bex.html"> Lavanchy</a>  </td>
+    <td class="tg-0lax">2017/04/01</td>
     <td class="tg-0lax">Bex</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Vaud</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">CH</span></td>
