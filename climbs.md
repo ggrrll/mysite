@@ -108,14 +108,14 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Videmanette</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">15/07/2017</span></td>
+    <td class="tg-0lax"> <a href="vieferrate/videmanette.html"> Videmanette </a> </td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">2017/07/15</span></td>
     <td class="tg-0lax">Rougement</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Vaud</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">CH</span></td>
-    <td class="tg-0lax">k5/k2/??</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">k5/k3/k1</td>
+    <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/1586/via_ferrata">CAS portal</a></td>
+    <td class="tg-0lax">we did the k5 -- very nice ferrata, with a view on the fribourg alps </td>
   </tr>
   <tr>
     <td class="tg-0lax">Splendide</td>
