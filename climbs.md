@@ -178,14 +178,15 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Tichodrome</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"> <a href="vieferrate/tichodrome.html"> Tichodrome</a></td>
+    <td class="tg-0lax">2017/07/09</td>
     <td class="tg-0lax">Noiraigue</td>
     <td class="tg-0lax">Neuchatel</td>
     <td class="tg-0lax">CH</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">very easy one -- best for beginners&nbsp;&nbsp;<br> where I met probably the most smiling person so far: Amir :)</td>
+    <td class="tg-0lax"><a href="https://www.myswitzerland.com/en-ch/experiences/route/through-the-areuse-gorge/">Gorges</a>
+    <p>  <a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/la-clusette-7441/via-ferrata/via-ferrata-du-tichodrome-979/">via ferrata on CAS</a> </p> </td>
+    <td class="tg-0lax">very easy one -- best for beginners&nbsp;&nbsp;<br> where I met probably the most smiling person so far: Amir :) (we also walked down the  gorges de l'Areuse</td>
   </tr>
   <tr>
     <td class="tg-0lax">Moiry Dam</td>
