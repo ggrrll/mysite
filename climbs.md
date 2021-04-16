@@ -49,7 +49,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
 <tbody>
   <tr>
     <td class="tg-0lax">Gantrisch</td>
-    <td class="tg-0lax">23/06/2019</td>
+    <td class="tg-0lax">2019/06/23</td>
     <td class="tg-0lax">Gantrisch natural park</td>
     <td class="tg-0lax">Bern</td>
     <td class="tg-0lax">CH</td>
@@ -59,7 +59,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Cascade</td>
-    <td class="tg-0lax">29/07/2017</td>
+    <td class="tg-0lax">2017/07/29</td>
     <td class="tg-0lax">Les Diablerets</td>
     <td class="tg-0lax">Vaud</td>
     <td class="tg-0lax">CH</td>
@@ -69,7 +69,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Tete aux chamois</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">30/07/2017</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">2017/07/30</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Les Diablerets</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Vaud</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">CH</span></td>
@@ -79,7 +79,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Dames Anglaises</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">21/07/2019</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">2019/07/21</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Les Diablerets</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Vaud</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">CH</span></td>
@@ -89,7 +89,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Tour d'AI</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">??/06/2017</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">2017/06/??</span></td>
     <td class="tg-0lax">Leysin</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Vaud</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">CH</span></td>
@@ -99,7 +99,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Plan Praz</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">??/06/2017</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">2017/06/??</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Leysin</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Vaud</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">CH</span></td>
@@ -119,7 +119,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Splendide</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">??/11/2016</span><br><span style="font-weight:400;font-style:normal">05/08/2018</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">2016/11/??</span><br><span style="font-weight:400;font-style:normal">05/08/2018</span></td>
     <td class="tg-0lax">Roche de Naye</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Vaud</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">CH</span></td>
@@ -134,12 +134,12 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Vaud</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">CH</span></td>
     <td class="tg-0lax">k2</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/falaise-du-lavanchy-7791/via-ferrata/via-ferrata-du-lavanchy-712/">CAS portal</a></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Moleson</td>
-    <td class="tg-0lax">??/09/2016</td>
+    <td class="tg-0lax">2016/09/??</td>
     <td class="tg-0lax">Moleson</td>
     <td class="tg-0lax">Fribourg</td>
     <td class="tg-0lax">CH</td>
@@ -149,7 +149,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Angiolino</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">01/04/2018</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">2018/04/01</span></td>
     <td class="tg-0lax">Monte Generoso</td>
     <td class="tg-0lax">Ticino</td>
     <td class="tg-0lax">CH</td>
@@ -159,7 +159,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Tre Signori</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">??/04/2017</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">2017/04/??</span></td>
     <td class="tg-0lax">Bellinzona</td>
     <td class="tg-0lax">Ticino</td>
     <td class="tg-0lax">CH</td>
@@ -169,7 +169,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">San Salvatore</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">??/04/2017</span><br><span style="font-weight:400;font-style:normal">02/04/2018</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">2017/04/??</span><br><span style="font-weight:400;font-style:normal">2018/04/02</span></td>
     <td class="tg-0lax">Lugano</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Ticino</span></td>
     <td class="tg-0lax">CH</td>
@@ -190,7 +190,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Moiry Dam</td>
-    <td class="tg-0lax">19/08/2018</td>
+    <td class="tg-0lax">2018/08/19</td>
     <td class="tg-0lax">Grimentz</td>
     <td class="tg-0lax">Valais</td>
     <td class="tg-0lax">CH</td>
@@ -200,7 +200,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Farinetta</td>
-    <td class="tg-0lax">10/06/2017</td>
+    <td class="tg-0lax">2017/06/10</td>
     <td class="tg-0lax">Saillon</td>
     <td class="tg-0lax">Valais</td>
     <td class="tg-0lax">CH</td>
@@ -220,7 +220,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Gabi</td>
-    <td class="tg-0lax">05/07/2020</td>
+    <td class="tg-0lax">2020/07/05</td>
     <td class="tg-0lax">Gabi</td>
     <td class="tg-0lax">Valais</td>
     <td class="tg-0lax">CH</td>
@@ -240,7 +240,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Tiere</td>
-    <td class="tg-0lax">28/04/2018<br>??/09/2016</td>
+    <td class="tg-0lax">2018/04/28 and ??/09/2016</td>
     <td class="tg-0lax">Champery</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Valais</span></td>
     <td class="tg-0lax">CH</td>
@@ -250,7 +250,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Evolene</td>
-    <td class="tg-0lax">12/08/2017</td>
+    <td class="tg-0lax">2017/08/12</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Evolene</span></td>
     <td class="tg-0lax">Valais</td>
     <td class="tg-0lax">CH</td>
@@ -270,7 +270,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Mittaghorn</td>
-    <td class="tg-0lax">28/09/2019</td>
+    <td class="tg-0lax">2019/09/28</td>
     <td class="tg-0lax">Saas Fee</td>
     <td class="tg-0lax">Valais</td>
     <td class="tg-0lax">CH</td>
@@ -280,8 +280,8 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Baltschieder</td>
-    <td class="tg-0lax">04/07/2020</td>
-    <td class="tg-0lax">wiwanni</td>
+    <td class="tg-0lax">2020/07/04</td>
+    <td class="tg-0lax">Wiwanni</td>
     <td class="tg-0lax">Valais</td>
     <td class="tg-0lax">CH</td>
     <td class="tg-0lax"></td>
@@ -290,7 +290,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Daubehorn</td>
-    <td class="tg-0lax">09/09/2018</td>
+    <td class="tg-0lax">2018/09/09</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Loeche les Bains</span></td>
     <td class="tg-0lax">Valais</td>
     <td class="tg-0lax">CH</td>
@@ -310,7 +310,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Gentianes</td>
-    <td class="tg-0lax">26/08/2018</td>
+    <td class="tg-0lax">2018/08/26</td>
     <td class="tg-0lax">Verbier</td>
     <td class="tg-0lax">Valais</td>
     <td class="tg-0lax">CH</td>
@@ -320,7 +320,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Tete des Evettes</td>
-    <td class="tg-0lax">11/08/2018</td>
+    <td class="tg-0lax">2018/08/11</td>
     <td class="tg-0lax">Chamonix</td>
     <td class="tg-0lax">Haute Savoi</td>
     <td class="tg-0lax">FR</td>
@@ -330,7 +330,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Echelles de la Mort</td>
-    <td class="tg-0lax">20/04/2019</td>
+    <td class="tg-0lax">2019/04/20</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">FR</td>
@@ -340,13 +340,13 @@ Nowadays, one can find many ideas, for many mountain sports in the very well don
   </tr>
   <tr>
     <td class="tg-0lax">Roche au Dade</td>
-    <td class="tg-0lax">08/06/2019</td>
+    <td class="tg-0lax">2019/06/08</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">Jura</td>
     <td class="tg-0lax">FR</td>
     <td class="tg-0lax">k5/k6</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">With a friend, at the beginning we did the very hard variant, short but K6! -- rest is ok for trained climbers </td>
+    <td class="tg-0lax">at the beginning we did the very hard variant, short but K6! -- rest is ok for trained climbers </td>
   </tr>
 </tbody>
 </table></div>
