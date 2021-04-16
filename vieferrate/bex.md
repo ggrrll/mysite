@@ -9,10 +9,13 @@ show_tile: false
 
 <center>on the way to the starting point</center>
 
-<video width="320" height="240" controls>
-  <source src="../assets/images/ferrate/ferrata_BEX/20170401_111330.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
+<center>
+	<video width="700" height="600" controls>
+	  <source src="../assets/images/ferrate/ferrata_BEX/20170401_111330.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+	</video>
+</center>	
 
 
 <center>  after the ferrata: beautiful view on the valley -- still some snow   </center>
