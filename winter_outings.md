@@ -55,6 +55,13 @@ show_tile: false
     <td class="tg-0lax">a classical 3000m, with an easy glacier crossing -- technical S-ridge: be careful as it is often frozen (we walked on the last m)</td>
     <td class="tg-0lax"> <a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/wildstrubel-lenkerstrubel-2218/randonnee-a-ski/">CAS portal </a> </td>
   </tr>
+  <tr>
+    <td class="tg-0lax"><a href="./winter/pointe_Au.html"> Pointe de l'Au </a></td>
+    <td class="tg-0lax">2021/04/17</td>
+    <td class="tg-0lax">Morgin (VS/CH)</td>
+    <td class="tg-0lax"> we took the chance to enjoy the last snowfall of the season | (red) Mouvement touring track | nice path in the forest and return on the blue slope </td>
+    <td class="tg-0lax"> <a href="https://touringtracks.movementskis.ch/tracks/morgins.pdf">Morgins Mouvement TT </a> -- <a href="https://s.geo.admin.ch/9057f9539a">position on the map</a> </td>
+  </tr>
     <tr>
     <td class="tg-0lax"><a href="./winter/5_summits_diablerets.html"> 5-summits traversée  </a></td>
     <td class="tg-0lax">2021/04/08</td>
