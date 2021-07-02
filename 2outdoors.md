@@ -27,6 +27,18 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
+		<a href="alpinisme.html" class="image" title="Le Portalet">
+			<img src="{{ site.baseurl }}{% link  assets/images/summer/portalet/IMG-20210702-WA0006.jpg%}" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Alpinisme</h3></header>
+				<p>list of peaks ascents (summer season)</p>
+			</div>
+		</div>
+	</section>	
+	<section>
 		<a href="climbs.html" class="image" title="belaying my friend Maxime in 'Bravo Lapp'">
 			<img src="{{ site.baseurl }}{% link assets/images/belaying.png %}" alt="" data-position="top center" />
 		</a>
