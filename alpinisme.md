@@ -42,6 +42,13 @@ show_tile: false
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/le-portalet-1441/alpinisme/">CAS portal</a></td>
   </tr>
   <tr>
+    <td class="tg-0lax"><a href="alpinisme/les_diablerets.html"> Les Diableret (3210 m)</a></td>
+    <td class="tg-0lax">2021/07/11</td>
+    <td class="tg-0lax"> Les Diablerets (VD/CH)</td>
+    <td class="tg-0lax"> voie normale (F) -- mostly snow + little climbing part (2a) </td>
+    <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/le-sommet-des-diablerets-490/alpinisme/">CAS Les Diablerets</a></td>
+  </tr>
+  <tr>
     <td class="tg-0lax"> Pigne de la Lé (3395 m) </td>
     <td class="tg-0lax">2017/??/??</td>
     <td class="tg-0lax">Moiry (VS/CH)</td>
