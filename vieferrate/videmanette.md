@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ferrata de la Videmanette
-description: hike 
+description: via ferrata 
 image:
 show_tile: false 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ferrata du Lavanchy
-description: hike 
+description: via ferrata 
 image:
 show_tile: false 
 ---
