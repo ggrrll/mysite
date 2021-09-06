@@ -12,6 +12,6 @@ show_tile: false
 ![](../assets/images/summer/gais_alpins/IMG_20210725_124527.jpg)
 
 
-<center> in a flat part, between 1st and 2st rappel  </center>
+<center> in a flat part, between rappels  </center>
 
 ![](../assets/images/summer/gais_alpins/IMG_20210725_144549.jpg)
