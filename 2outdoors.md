@@ -21,7 +21,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Hiking</h3></header>
+					<h3><a href="summer_outings.html" class="image" title="from the summit of 'La Breya'">Hiking </a></h3></header>
 				<p>summer / fall hikes</p>
 			</div>
 		</div>
@@ -33,7 +33,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Alpinisme</h3></header>
+					<h3> <a href="alpinisme.html" class="image" title="Le Portalet">Alpinisme </a> </h3></header>
 				<p>list of peaks ascents (summer season)</p>
 			</div>
 		</div>
@@ -45,7 +45,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Climbing</h3>
+					<h3><a href="climbs.html" class="image" title="belaying my friend Maxime in 'Bravo Lapp'">Climbing </a></h3>
 				</header>
 				<p>multi pitch & Via Ferrata</p>
 			</div>
@@ -58,7 +58,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Winter</h3>
+					<h3><a href="winter_outings.html" class="image" title="little hike in 'Les Pleiades'">Winter</a></h3>
 				</header>
 				<p>snow-shoes / ski hikes</p>
 			</div>
