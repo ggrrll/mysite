@@ -43,99 +43,90 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <th class="tg-j1i3">Route</th>
     <th class="tg-j1i3">Date</th>
     <th class="tg-j1i3">Place</th>
-    <th class="tg-ul38">Country</th>
     <th class="tg-j1i3">Level</th>
     <th class="tg-j1i3">Length</th>
+    <th class="tg-ul38">Link</th>
   </tr>
 </thead>
 <tbody>
   <tr>
+    <td class="tg-0pky"> <a href='multi_pitch/coupe_brosse.html'> Coupe de Brosse </a> </td>
+    <td class="tg-0pky">2021/09/20</td>
+    <td class="tg-0pky">Vouvry (CH)</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0lax"><a href='https://www.camptocamp.org/routes/1255064/fr/se-veillin-coup-de-brosse'>camptocamp </a>  </td>
+  </tr>
+  <tr>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">2020/06/20</td>
-    <td class="tg-0pky">Les chesery</td>
-    <td class="tg-0lax">FR</td>
+    <td class="tg-0pky">Les chesery (FR)</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal">2020/06/21</span></td>
-    <td class="tg-0pky">Vallorcine</td>
-    <td class="tg-0lax">FR</td>
+    <td class="tg-0pky">Vallorcine (FR)</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">2019/09/21</td>
-    <td class="tg-0pky">la Fory</td>
-    <td class="tg-0lax">CH</td>
+    <td class="tg-0pky">la Fory (CH)</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">Pantagruel</td>
     <td class="tg-0pky">2021/08/08</td>
-    <td class="tg-0pky">les Trappistes</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">CH</span></td>
+    <td class="tg-0pky">les Trappistes  (CH)</td>
     <td class="tg-0pky">5c+</td>
     <td class="tg-0pky">150</td>
+    <td class=tg-0lax></td>
   </tr>
   <tr>
     <td class="tg-0pky">tit train</td>
     <td class="tg-0pky">2020/08/01</td>
     <td class="tg-0pky">Pierre Avoi</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">CH</span></td>
     <td class="tg-0pky">5c</td>
     <td class="tg-0pky">130</td>
-  </tr>
+    <td class=tg-0lax></td> </tr>
   <tr>
     <td class="tg-0lax">Bravo Lapp</td>
     <td class="tg-0lax">2020/09/06</td>
-    <td class="tg-0lax">Pissevache</td>
-    <td class="tg-0lax">CH</td>
+    <td class="tg-0lax">Pissevache (CH)</td>
     <td class="tg-0lax">5b+</td>
     <td class="tg-0lax">240</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Pantomine</td>
     <td class="tg-0lax">2020/05/09</td>
-    <td class="tg-0lax">Eole</td>
-    <td class="tg-0lax">CH</td>
+    <td class="tg-0lax">Eole (CH)</td>
     <td class="tg-0lax">5c+</td>
     <td class="tg-0lax">100</td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Terry</td>
     <td class="tg-0lax">2020/05/24</td>
-    <td class="tg-0lax">Mieville</td>
-    <td class="tg-0lax">CH</td>
+    <td class="tg-0lax">Mieville (CH)</td>
     <td class="tg-0lax">5b+</td>
     <td class="tg-0lax">160</td>
+    <td class=tg-0lax></td>td>
   </tr>
   <tr>
     <td class="tg-0lax">Salut Quentin</td>
     <td class="tg-0lax">2019/08/03</td>
-    <td class="tg-0lax">Pierre du Moellé</td>
-    <td class="tg-0lax">CH</td>
+    <td class="tg-0lax">Pierre du Moellé (CH)</td>
     <td class="tg-0lax">4c</td>
     <td class="tg-0lax">100</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">CH</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class=tg-0lax></td>td>
   </tr>
 </tbody>
 </table></div>
