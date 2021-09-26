@@ -34,6 +34,20 @@ show_tile: false
   </tr>
 </thead>
 <tbody>
+    <tr>
+    <td class="tg-0lax"><a href="summer/fenetre_arpette.html"> Fenêtre d'Arpette (2665 m)</a></td>
+    <td class="tg-0lax">2021/09/25</td>
+    <td class="tg-0lax">Trient (VS/CH)</td>
+    <td class="tg-0lax"> nice and long hike, with beautiful view on Trient glacier</td>
+    <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/3327/archive/">CAS portal  </a></td>
+  </tr>
+    <tr>
+    <td class="tg-0lax"><a href="summer/.html"> Dent d'Oche (2222 m)</a></td>
+    <td class="tg-0lax">2021//</td>
+    <td class="tg-0lax"> Evian (FR)</td>
+    <td class="tg-0lax"> nice hike (with steep final part), with  view on Lac Leman</td>
+    <td class="tg-0lax"><a href="https://www.camptocamp.org/waypoints/37844/fr/dent-d-oche">camptocamp</a></td>
+  </tr>
   <tr>
     <td class="tg-0lax"><a href="summer/pic_chaussy.html"> Pic Chaussy (2351 m)</a></td>
     <td class="tg-0lax">2020/11/01</td>
