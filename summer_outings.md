@@ -34,6 +34,13 @@ show_tile: false
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td class="tg-0lax"><a href="summer/mont_dor.html"> Mont D'Or (2175 m)</a></td>
+    <td class="tg-0lax">2021/10/10</td>
+    <td class="tg-0lax">Le Sepey (VD/CH)</td>
+    <td class="tg-0lax"> nice hike, with nice view on the largre alpin massif </td>
+    <td class="tg-0lax"><a href="https://www.camptocamp.org/waypoints/37207/fr/mont-d-or">Camp2camp  </a></td>
+  </tr>
     <tr>
     <td class="tg-0lax"><a href="summer/fenetre_arpette.html"> Fenêtre d'Arpette (2665 m)</a></td>
     <td class="tg-0lax">2021/09/25</td>
