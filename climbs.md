@@ -77,7 +77,7 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0pky"></td>
     <td class="tg-0pky">2019/09/21</td>
     <td class="tg-0pky">la Fory (CH)</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
@@ -87,7 +87,7 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0pky">les Trappistes  (CH)</td>
     <td class="tg-0pky">5c+</td>
     <td class="tg-0pky">150</td>
-    <td class=tg-0lax></td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0pky">tit train</td>
@@ -95,7 +95,8 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0pky">Pierre Avoi</td>
     <td class="tg-0pky">5c</td>
     <td class="tg-0pky">130</td>
-    <td class=tg-0lax></td> </tr>
+    <td class="tg-0lax"></td> 
+  </tr>
   <tr>
     <td class="tg-0lax">Bravo Lapp</td>
     <td class="tg-0lax">2020/09/06</td>
@@ -118,7 +119,7 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0lax">Mieville (CH)</td>
     <td class="tg-0lax">5b+</td>
     <td class="tg-0lax">160</td>
-    <td class=tg-0lax></td>td>
+    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-0lax">Salut Quentin</td>
@@ -126,7 +127,7 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0lax">Pierre du Moellé (CH)</td>
     <td class="tg-0lax">4c</td>
     <td class="tg-0lax">100</td>
-    <td class=tg-0lax></td>td>
+    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table></div>
