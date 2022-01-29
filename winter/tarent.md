@@ -42,8 +42,8 @@ show_tile: false
 <center> video from the summit </center>
 
 <center>  
-	<video  width="700" height="600" controls="true" allowfullscreen="true">
-	  <source src="./assets/images/winter/tarent_CAS/VID_20220123_125819.mp4" type="video/mp4">
+	<video  width="700" height="600" controls>
+	  <source src="../assets/images/winter/tarent_CAS/VID_20220123_125819.mp4" type="video/mp4">
 		Your browser does not support the video tag.
 	</video>
 </center>
