@@ -98,6 +98,13 @@ show_tile: false
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/8689/ski_tour">CAS portal </a></td>    
   </tr>
   <tr>
+    <td class="tg-0lax"> <a href="winter/tarent.html">  Le Tarent </a> </td>
+    <td class="tg-0lax">2022/01/24</td>
+    <td class="tg-0lax"> Etivaz (VD/CH)</td>
+    <td class="tg-0lax"> AD- (last part, walking on steep hard snow and ridge ) </td>
+    <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/le-tarent-1936/randonnee-a-ski/">CAS portal </a></td>    
+  </tr>
+  <tr>
     <td class="tg-0lax"><a href="winter/dole.html"> la Dole </a></td>
     <td class="tg-0lax">2020/12/06</td>
     <td class="tg-0lax">st Sergue / la Givrine</td>
