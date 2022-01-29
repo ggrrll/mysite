@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pointe de Gros Six
+title: Pointe de Gros Six (2873 m)
 description: ski tour
 image:
 show_tile: false 

@@ -35,7 +35,7 @@ show_tile: false
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href="winter/pointebellevue.html"> Pointe de bellevue </a></td>
+    <td class="tg-0lax"><a href="winter/pointebellevue.html"> Pointe de bellevue (2041 m) </a></td>
     <td class="tg-0lax">2020/12/16</td>
     <td class="tg-0lax">Morgins (VS/CH)</td>
     <td class="tg-0lax">(with CAS Lausanne) ice & grass at the bottom and very icy snow on the rest  (often this south face has bad snow conditions, for ski) -- the view is one of the best, as you get can see the Alps, the Jura and the lac Leman</td>
@@ -49,7 +49,7 @@ show_tile: false
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/les-arpilles-tete-a-josue-8295/randonnee-a-ski/">CAS portal</a></td>
   </tr>  
   <tr>
-    <td class="tg-0lax"><a href="./winter/wildstrubel.html"> Wildstrubel </a></td>
+    <td class="tg-0lax"><a href="./winter/wildstrubel.html"> Wildstrubel (3244 m) </a></td>
     <td class="tg-0lax">2021/02/26</td>
     <td class="tg-0lax">Crans-Montana (VS/CH)</td>
     <td class="tg-0lax">a classical 3000m, with an easy glacier crossing -- technical S-ridge: be careful as it is often frozen (we walked on the last m)</td>
@@ -70,7 +70,7 @@ show_tile: false
     <td class="tg-0lax"> <a href="https://s.geo.admin.ch/8fe7af5680"> tour on geo.admin </a> and the tour for the <a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/walighuerli-8263/randonnee-a-ski/">last summit (walighuerli) </a> </td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="./winter/pointe_gros_six.html">Pointe des gros six</a> </td>
+    <td class="tg-0lax"><a href="./winter/pointe_gros_six.html">Pointe des gros six (2873 m) </a> </td>
     <td class="tg-0lax">2021/03/05</td>
     <td class="tg-0lax">bourg st Pierre (VS/CH)</td>
     <td class="tg-0lax">(with CAS Lausanne) very long excursion | on that day, completely frozen snow</td>
@@ -98,10 +98,10 @@ show_tile: false
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/8689/ski_tour">CAS portal </a></td>    
   </tr>
   <tr>
-    <td class="tg-0lax"> <a href="winter/tarent.html">  Le Tarent </a> </td>
+    <td class="tg-0lax"> <a href="winter/tarent.html">  Le Tarent (2547 m) </a> </td>
     <td class="tg-0lax">2022/01/24</td>
     <td class="tg-0lax"> Etivaz (VD/CH)</td>
-    <td class="tg-0lax"> AD- (last part, walking on steep hard snow and ridge ) </td>
+    <td class="tg-0lax"> level: AD- (last part, walking on steep hard snow and ridge ) </td>
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/le-tarent-1936/randonnee-a-ski/">CAS portal </a></td>    
   </tr>
   <tr>

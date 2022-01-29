@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pointe de Bellevue		
+title: Pointe de Bellevue	(2041 m)
 description: ski tour
 image:
 show_tile: false 

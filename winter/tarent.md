@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Le Tarent		
+title: Le Tarent (2547 m) 	
 description: ski tour
 image:
 show_tile: false 

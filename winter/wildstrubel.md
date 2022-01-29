@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wildstrubel		
+title: Wildstrubel (3244 m)		
 description: ski tour
 image:
 show_tile: false 
