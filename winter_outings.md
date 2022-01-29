@@ -62,6 +62,13 @@ show_tile: false
     <td class="tg-0lax"> we took the chance to enjoy the last snowfall of the season | (red) Mouvement touring track | nice path in the forest and return on the blue slope </td>
     <td class="tg-0lax"> <a href="https://touringtracks.movementskis.ch/tracks/morgins.pdf">Morgins Mouvement TT </a> -- <a href="https://s.geo.admin.ch/9057f9539a">position on the map</a> </td>
   </tr>
+  <tr>
+    <td class="tg-0lax"><a href="./winter/liddes.html"> Liddes touring track (2267 m) </a></td>
+    <td class="tg-0lax">2022/01/09</td>
+    <td class="tg-0lax">Liddes (VS/CH)</td>
+    <td class="tg-0lax">  we wanted to do Tour de Bavon, but the weather was not so good, so we stop at the top of the teleski | (red) Mouvement touring track | nice path in the forest and return on the *black* slope (blue is also possible) </td>
+    <td class="tg-0lax"> <a href="https://saint-bernard.ch/fr/activites/ski-de-randonnee#filter=r-fullyTranslatedLangus-&ipd=56746520&zc=14,7.16228,45.986"> Mouvement TT </a> </td>
+  </tr>
     <tr>
     <td class="tg-0lax"><a href="./winter/5_summits_diablerets.html"> 5-summits traversée  </a></td>
     <td class="tg-0lax">2021/04/08</td>
