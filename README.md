@@ -1,3 +1,9 @@
+# tip
+
+in order to build and test locally ([see githup pages doc](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)): 
+    
+`bundle exec jekyll serve`     
+
 # Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
