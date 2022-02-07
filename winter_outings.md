@@ -35,6 +35,13 @@ show_tile: false
 </thead>
 <tbody>
   <tr>
+    <td class="tg-0lax"><a href="winter/mont_fourchon.html"> Mont Fourchon (2901 m) </a></td>
+    <td class="tg-0lax">2022/02/05</td>
+    <td class="tg-0lax"> Bourg St Pierre (VS/CH)</td>
+    <td class="tg-0lax">(with CAS Lausanne)  very good snow; partially sunny day; very good crew :) </td>
+    <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/mont-fourchon-7940/randonnee-a-ski/">CAS portal</a></td>
+  </tr>
+  <tr>
     <td class="tg-0lax"><a href="winter/pointebellevue.html"> Pointe de bellevue (2041 m) </a></td>
     <td class="tg-0lax">2020/12/16</td>
     <td class="tg-0lax">Morgins (VS/CH)</td>
