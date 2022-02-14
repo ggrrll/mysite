@@ -35,6 +35,13 @@ show_tile: false
 </thead>
 <tbody>
   <tr>
+    <td class="tg-0lax"><a href="winter/berthe.html"> La Berthe (1989 m) </a></td>
+    <td class="tg-0lax">2022/02/14</td>
+    <td class="tg-0lax"> Champery (VS/CH)</td>
+    <td class="tg-0lax">(with CAS Lausanne)  very good snow </td>
+    <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/la-berthe-9033/randonnee-a-ski/"> CAS portal </a></td>
+  </tr>
+  <tr>
     <td class="tg-0lax"><a href="winter/mont_fourchon.html"> Mont Fourchon (2901 m) </a></td>
     <td class="tg-0lax">2022/02/05</td>
     <td class="tg-0lax"> Bourg St Pierre (VS/CH)</td>
