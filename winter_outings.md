@@ -35,6 +35,13 @@ show_tile: false
 </thead>
 <tbody>
   <tr>
+    <td class="tg-0lax"><a href="winter/pointe_arpille.html"> Pointe de l'Arpille (1982 m) </a></td>
+    <td class="tg-0lax">2022/02/19</td>
+    <td class="tg-0lax"> Diableret (VD/CH)</td>
+    <td class="tg-0lax">(with CAS Lausanne)  wet snow </td>
+    <td class="tg-0lax"><a href="https://s.geo.admin.ch/965c8d8f51">  swiss topo map </a></td>
+  </tr>
+  <tr>
     <td class="tg-0lax"><a href="winter/berthe.html"> La Berthe (1989 m) </a></td>
     <td class="tg-0lax">2022/02/14</td>
     <td class="tg-0lax"> Champery (VS/CH)</td>
