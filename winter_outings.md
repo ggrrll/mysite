@@ -42,6 +42,13 @@ show_tile: false
     <td class="tg-0lax"><a href="https://s.geo.admin.ch/965c8d8f51">  swiss topo map </a></td>
   </tr>
   <tr>
+    <td class="tg-0lax"><a href="winter/aigulles_rouges_arolla.html">  Aigulles Rouges d'Arolla (3400 m) </a></td>
+    <td class="tg-0lax">2022/03/12</td>
+    <td class="tg-0lax"> Arolla (VS/CH)</td>
+    <td class="tg-0lax">  we actually wanted to ski up to the Pointe de Vouasson, but we missed the path and we decided to get to the base of the ridge of the A.R.dA. :) -- sunny day, but worst snow ever!  ('frozen waves') </td>
+    <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/88/alpine_tour"> CAS *summer* outing, including the ridge </a></td>
+  </tr>
+  <tr>
     <td class="tg-0lax"><a href="winter/berthe.html"> La Berthe (1989 m) </a></td>
     <td class="tg-0lax">2022/02/14</td>
     <td class="tg-0lax"> Champery (VS/CH)</td>
