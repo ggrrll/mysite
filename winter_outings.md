@@ -34,6 +34,13 @@ show_tile: false
   </tr>
 </thead>
 <tbody>
+    <tr>
+    <td class="tg-0lax"><a href="winter/pointe_euzanne.html"> Pointe d' Euzanne (2326 m) </a></td>
+    <td class="tg-0lax">2022/04/03</td>
+    <td class="tg-0lax"> Bex (VD/CH)</td>
+    <td class="tg-0lax">(with CAS Lausanne) very nice powder  </td>
+    <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/pointe-deuzanne-8133/randonnee-a-ski/">  CAS portal </a></td>
+  </tr>
   <tr>
     <td class="tg-0lax"><a href="winter/pointe_arpille.html"> Pointe de l'Arpille (1982 m) </a></td>
     <td class="tg-0lax">2022/02/19</td>
