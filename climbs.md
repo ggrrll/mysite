@@ -396,14 +396,14 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Mittaghorn</td>
+    <td class="tg-0lax"> <a href="vieferrate/mittaghorn.html" > Mittaghorn </a></td>
     <td class="tg-0lax">2019/09/28</td>
     <td class="tg-0lax">Saas Fee</td>
     <td class="tg-0lax">Valais</td>
     <td class="tg-0lax">CH</td>
     <td class="tg-0lax">k3 ?</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">altitude experience - about 3100m -- in the saas valley</td>
+    <td class="tg-0lax"> <a href="https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/mittaghorn-saas-fee-vs-1179/via-ferrata/via-ferrata-du-mittaghorn-klettersteig-732/" > CAS portal </a> </td>
+    <td class="tg-0lax">altitude experience - about 3100m -- in the saas valley (maybe better to go a bit earlier in the season, as the ferrata "closes" around that time) </td>
   </tr>
   <tr>
     <td class="tg-0lax">Baltschieder</td>
