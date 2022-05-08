@@ -205,14 +205,14 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Dames Anglaises</td>
+    <td class="tg-0lax"> <a href="vieferrate/dames_anglaises.html" > Dames Anglaises </a></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">2019/07/21</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Les Diablerets</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Vaud</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">CH</span></td>
     <td class="tg-0lax">k3</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"> <a href="https://www.glacier3000.ch/fr/activites/randonnees/via-ferratas-escalade/via-ferrata-dames-anglaises" > glacier3000 site </a> </td>
+    <td class="tg-0lax">2 days trip -- a loop from / to the village of Diableret</td>
   </tr>
   <tr>
     <td class="tg-0lax">Tour d'AI</td>
