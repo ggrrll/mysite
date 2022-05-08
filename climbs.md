@@ -14,7 +14,7 @@ Nowadays, one can find many ideas, for many mountain sports in the very-well-don
 <a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/">portail-des-courses-du-cas</a> (by the suisse alpin club)  
 
 
-# Multi-pitch 
+# Multi-pitch
 
 here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook](https://www.filidor.ch/en/))
 
@@ -56,6 +56,14 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0lax"><a href='https://www.camptocamp.org/routes/1255064/fr/se-veillin-coup-de-brosse'>camptocamp </a>  </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">  kalinka</td>
+    <td class="tg-0pky">2022/05/01</td>
+    <td class="tg-0pky"> Vens / Sembrancher (VS/CH)</td>
+    <td class="tg-0pky">5c</td>
+    <td class="tg-0pky">150</td>
+    <td class="tg-0lax"><a href='https://www.camptocamp.org/routes/171992/fr/le-troubayet-kalinka'> camptocamp</a> </td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
@@ -308,14 +316,14 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0lax">very easy one -- best for beginners&nbsp;&nbsp;<br> where I met probably the most smiling person so far: Amir :) (we also walked down the  gorges de l'Areuse</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Moiry Dam</td>
+    <td class="tg-0lax"> <a href="./vieferrate/moiry.html"> Moiry Dam </a>  </td>
     <td class="tg-0lax">2018/08/19</td>
     <td class="tg-0lax">Grimentz</td>
     <td class="tg-0lax">Valais</td>
     <td class="tg-0lax">CH</td>
     <td class="tg-0lax">k5</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">the hard variant can be bypassed with an easier one</td>
+    <td class="tg-0lax"> <a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/gite-du-lac-de-moiry-7801/via-ferrata/de-moiry-via-ferrata-upper-section-734/" > CAS portal </a> </td>
+    <td class="tg-0lax">the harder variant can be bypassed with an easier one</td>
   </tr>
   <tr>
     <td class="tg-0lax">Farinetta</td>
