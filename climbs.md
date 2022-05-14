@@ -185,6 +185,16 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0lax"></td>
   </tr>
   <tr>
+    <td class="tg-0lax"> <a href="vieferrate/aletch.html" >  Eggishorn </a></td>
+    <td class="tg-0lax">2019/10/15</td>
+    <td class="tg-0lax"> Fischeralp</td>
+    <td class="tg-0lax">Valais</td>
+    <td class="tg-0lax">CH</td>
+    <td class="tg-0lax"> k3 </td>
+    <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/eggishorn-548/via-ferrata/via-ferrata-de-leggishorn-666/" > CAS portal </a></td>
+    <td class="tg-0lax">nice ferrata, with end on the Aletch arena -- NW ridge</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">Cascade</td>
     <td class="tg-0lax">2017/07/29</td>
     <td class="tg-0lax">Les Diablerets</td>
