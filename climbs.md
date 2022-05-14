@@ -456,13 +456,13 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0lax">walk for access is&nbsp;&nbsp;long and not very nice -- the ferrata is an easy one, with 'altitude experience' </td>
   </tr>
   <tr>
-    <td class="tg-0lax">Tete des Evettes</td>
+    <td class="tg-0lax"> <a href="vieferrate/chamonix.html" > Tete des Evettes </a></td>
     <td class="tg-0lax">2018/08/11</td>
     <td class="tg-0lax">Chamonix</td>
     <td class="tg-0lax">Haute Savoi</td>
     <td class="tg-0lax">FR</td>
     <td class="tg-0lax">k2</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"> <a href="https://www.chamonix.net/english/mountaineering/via-ferrata/via-des-evettes" > more info </a> </td>
     <td class="tg-0lax">nice, with the typical atmosphere of the Chamonix valley :) </td>
   </tr>
   <tr>
