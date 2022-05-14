@@ -416,7 +416,7 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0lax"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Daubehorn</td>
+    <td class="tg-0lax"> <a href="vieferrate/gemmi_pass.html" >  Daubehorn </a> </td>
     <td class="tg-0lax">2018/09/09</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Loeche les Bains</span></td>
     <td class="tg-0lax">Valais</td>
