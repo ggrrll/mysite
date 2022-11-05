@@ -175,13 +175,13 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Gantrisch</td>
+    <td class="tg-0lax"> <a href="vieferrate/gantrish_ferrata.html"> Gantrisch </a></td>
     <td class="tg-0lax">2019/06/23</td>
     <td class="tg-0lax">Gantrisch natural park</td>
     <td class="tg-0lax">Bern</td>
     <td class="tg-0lax">CH</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"> <a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/gantrisch-746/via-ferrata/via-ferrata-du-gantrisch-294/" > CAS portal </a></td>
     <td class="tg-0lax"></td>
   </tr>
   <tr>
