@@ -18,12 +18,18 @@ show_tile: false
 </center>	
 
 
+<center> climbing </center>
+
+![](../assets/images/ferrate/ferrata_BEX/IMG-20170403-WA0003.jpg)
+
 <center>  after the ferrata: beautiful view on the valley -- still some snow   </center>
 
 
 ![](../assets/images/ferrate/ferrata_BEX/20170401_131046.jpg)
 
 
-<center>pic-nic time on a steep slope</center>
+<center>on the way down</center>
 
 ![](../assets/images/ferrate/ferrata_BEX/20170401_131054.jpg)
+![](../assets/images/ferrate/ferrata_BEX/IMG-20170403-WA0010.jpg)
+![](../assets/images/ferrate/ferrata_BEX/IMG-20170403-WA0011.jpg)
