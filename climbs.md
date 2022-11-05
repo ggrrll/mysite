@@ -235,18 +235,18 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0lax">2 days trip -- a loop from / to the village of Diableret</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Tour d'AI</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">2017/06/??</span></td>
+    <td class="tg-0lax"> <a href="vieferrate/tour_dAI.html"> Tour d'AI</a> </td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">2017/06/17</span></td>
     <td class="tg-0lax">Leysin</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Vaud</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">CH</span></td>
     <td class="tg-0lax">k4</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"> <a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/tour-dai-13/via-ferrata/via-ferrata-tour-dai-717/" > CAS portal </a> </td>
+    <td class="tg-0lax">good for beginners with some experience -- beautiful view on lac leman</td>
   </tr>
   <tr>
     <td class="tg-0lax">Plan Praz</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">2017/06/??</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">2017/06/17</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Leysin</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Vaud</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">CH</span></td>
