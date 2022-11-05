@@ -346,7 +346,7 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0lax">mind that there are 2 exit ways -- so, you can still get out, according to your level</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Belvedere</td>
+    <td class="tg-0lax"> <a href="vieferrate/nax.html" > Belvedere </a></td>
     <td class="tg-0lax">(2 times - summer)</td>
     <td class="tg-0lax">Nax</td>
     <td class="tg-0lax">Valais</td>
