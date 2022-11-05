@@ -48,6 +48,13 @@ show_tile: false
     <td class="tg-0lax">(with CAS Lausanne)  wet snow </td>
     <td class="tg-0lax"><a href="https://s.geo.admin.ch/965c8d8f51">  swiss topo map </a></td>
   </tr>
+    <tr>
+    <td class="tg-0lax"><a href="winter/aigulles_mex.html"> Aigulles de Mex (1870 m) </a></td>
+    <td class="tg-0lax">2019/12/04</td>
+    <td class="tg-0lax"> Mex (VD/CH)</td>
+    <td class="tg-0lax"> did it with snow-shoes </td>
+    <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/laiguille-de-mex-9181/randonnee-a-ski/">  CAS portal </a></td>
+  </tr>
   <tr>
     <td class="tg-0lax"><a href="winter/aigulles_rouges_arolla.html">  Aigulles Rouges d'Arolla (3400 m) </a></td>
     <td class="tg-0lax">2022/03/12</td>
