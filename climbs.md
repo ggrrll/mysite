@@ -205,6 +205,16 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0lax"></td>
   </tr>
   <tr>
+    <td class="tg-0lax"> <a href= "vieferrate/verbier.html">  Gentianes </a> </td>
+    <td class="tg-0lax">2018/08/28</td>
+    <td class="tg-0lax">Verbier</td>
+    <td class="tg-0lax">Valais</td>
+    <td class="tg-0lax">CH</td>
+    <td class="tg-0lax">k3</td>
+    <td class="tg-0lax"> <a href="https://verbier4vallees.ch/en/experiences-in-verbier/all-summer-activities/via-ferrata" > official site </a>   </td>
+    <td class="tg-0lax">walk for access is long and not very nice -- the ferrata is an easy one, with 'altitude experience'</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">Tete aux chamois</td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">2017/07/30</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Les Diablerets</span></td>
@@ -444,16 +454,6 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">very nice, along gorge of river, with many bridges - ok for beginners which are not scared</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Gentianes</td>
-    <td class="tg-0lax">2018/08/26</td>
-    <td class="tg-0lax">Verbier</td>
-    <td class="tg-0lax">Valais</td>
-    <td class="tg-0lax">CH</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">walk for access is&nbsp;&nbsp;long and not very nice -- the ferrata is an easy one, with 'altitude experience' </td>
   </tr>
   <tr>
     <td class="tg-0lax"> <a href="vieferrate/chamonix.html" > Tete des Evettes </a></td>
