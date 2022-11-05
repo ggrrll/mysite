@@ -347,13 +347,13 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
   </tr>
   <tr>
     <td class="tg-0lax"> <a href="vieferrate/nax.html" > Belvedere </a></td>
-    <td class="tg-0lax">(2 times - summer)</td>
+    <td class="tg-0lax">2017/04/09</td>
     <td class="tg-0lax">Nax</td>
     <td class="tg-0lax">Valais</td>
     <td class="tg-0lax">CH</td>
     <td class="tg-0lax">k4</td>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">beatiful view (as the name says :)) // a classical for beginners, although theres is a little which requires more effort (probably the reason why they assigned k4, otherwise more a k3/k2)</td>
+    <td class="tg-0lax">(2 times - summer) beatiful view (as the name says :)) // a classical for beginners, although theres is a little which requires more effort (probably the reason why they assigned k4, otherwise more a k3/k2)</td>
   </tr>
   <tr>
     <td class="tg-0lax">Gabi</td>
