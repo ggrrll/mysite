@@ -55,6 +55,13 @@ show_tile: false
     <td class="tg-0lax"> did it with snow-shoes </td>
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/laiguille-de-mex-9181/randonnee-a-ski/">  CAS portal </a></td>
   </tr>
+      <tr>
+    <td class="tg-0lax"><a href="winter/zinal_glacier.html"> Zinal Glacier </a></td>
+    <td class="tg-0lax">2019/12/08</td>
+    <td class="tg-0lax"> Zinal (VS/CH)</td>
+    <td class="tg-0lax"> little hike to the 'glacier mouth' </td>
+    <td class="tg-0lax"></td>
+  </tr>
   <tr>
     <td class="tg-0lax"><a href="winter/aigulles_rouges_arolla.html">  Aigulles Rouges d'Arolla (3400 m) </a></td>
     <td class="tg-0lax">2022/03/12</td>
