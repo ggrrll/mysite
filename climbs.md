@@ -50,6 +50,22 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
 </thead>
 <tbody>
   <tr>
+    <td class="tg-0pky"> <a href='multi_pitch/buba_libre.html'> Buba libre </a> </td>
+    <td class="tg-0pky">2023/05/29</td>
+    <td class="tg-0pky"> gastloschen (CH)</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0lax"><a href=''> </a>  </td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"> <a href='multi_pitch/cacao_girls.html'> Cacao girls </a> </td>
+    <td class="tg-0pky">2023/06/25</td>
+    <td class="tg-0pky">barberine (CH/FR)</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0lax"><a href=''> </a>  </td>
+  </tr>
+  <tr>
     <td class="tg-0pky"> <a href='multi_pitch/coupe_brosse.html'> Coupe de Brosse </a> </td>
     <td class="tg-0pky">2021/09/20</td>
     <td class="tg-0pky">Vouvry (CH)</td>
