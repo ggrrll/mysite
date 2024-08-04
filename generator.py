@@ -1,7 +1,8 @@
 
 import glob
+from pathlib import Path
 
-main_name = 'jagihorn'
+main_name = 'charmey'
 
 
 with open(f'./vieferrate/{main_name}.md', 'w') as file:
@@ -16,7 +17,7 @@ show_tile: false
 """
     file.write(text)
 
-    for image in glob.glob(f'./assets/images/summer/{main_name}/*'):
+    for image in glob.glob(f'./assets/images/ferrate/{main_name}/*'):
         text = f"""
 
 <center> </center>

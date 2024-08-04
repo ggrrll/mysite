@@ -512,7 +512,7 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0lax"> mind going to the right (k5) on the second biforcation... or not :) </td>
   </tr>  
   <tr>
-    <td class="tg-0lax">charmey  </td>
+    <td class="tg-0lax"> <a href="vieferrate/charmey.html" > charmey </a>  </td>
     <td class="tg-0lax">2024/08/03</td>
     <td class="tg-0lax">Charmey</td>
     <td class="tg-0lax">FR</td>
