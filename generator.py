@@ -1,11 +1,11 @@
 
 import glob
 
-main_name = 'portalet'
+main_name = 'jagihorn'
 
 
-with open('./summer/portalet.md','w') as file:
-	text = f"""
+with open(f'./vieferrate/{main_name}.md', 'w') as file:
+    text = f"""
 ---
 layout: post
 title: {main_name}
@@ -14,10 +14,10 @@ image:
 show_tile: false 
 ---
 """
-	file.write(text)
+    file.write(text)
 
-	for image in glob.glob(f'./assets/images/summer/{main_name}/*'):
-		text = f"""
+    for image in glob.glob(f'./assets/images/summer/{main_name}/*'):
+        text = f"""
 
 <center> </center>
 
@@ -25,6 +25,4 @@ show_tile: false
 
 
 """
-		file.write(text)
-
-
+        file.write(text)

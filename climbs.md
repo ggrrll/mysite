@@ -422,7 +422,7 @@ here I list only the multi-pitch climb (mostly taken from [Plaisr West guidebook
     <td class="tg-0lax">great view, once you reach the end </td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jagihorn</td>
+    <td class="tg-0lax"> <a href="vieferrate/jagihorn.html" > Jagihorn </a> </td>
     <td class="tg-0lax"> 2023/07/23 </td>
     <td class="tg-0lax">Saas Fee</td>
     <td class="tg-0lax">Valais</td>
