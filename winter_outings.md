@@ -48,14 +48,21 @@ show_tile: false
     <td class="tg-0lax">(with CAS Lausanne)  wet snow </td>
     <td class="tg-0lax"><a href="https://s.geo.admin.ch/965c8d8f51">  swiss topo map </a></td>
   </tr>
-    <tr>
+  <tr>
+    <td class="tg-0lax"><a href="winter/valerette.html"> Dent de Valerette (2058 m) </a></td>
+    <td class="tg-0lax">2025/02/16</td>
+    <td class="tg-0lax"> Monthey (VS/CH)</td>
+    <td class="tg-0lax"> good snow :) </td>
+    <td class="tg-0lax"><a href="https://s.geo.admin.ch/965c8d8f51">  swiss topo map </a> <a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/dent-de-valerette-8390/randonnee-a-ski/des-giettes-par-les-jeurs-5744/"> CAS portal </a></td>
+  </tr>
+  <tr>
     <td class="tg-0lax"><a href="winter/aigulles_mex.html"> Aigulles de Mex (1870 m) </a></td>
     <td class="tg-0lax">2019/12/04</td>
     <td class="tg-0lax"> Mex (VD/CH)</td>
     <td class="tg-0lax"> did it with snow-shoes </td>
     <td class="tg-0lax"><a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/laiguille-de-mex-9181/randonnee-a-ski/">  CAS portal </a></td>
   </tr>
-      <tr>
+  <tr>
     <td class="tg-0lax"><a href="winter/zinal_glacier.html"> Zinal Glacier </a></td>
     <td class="tg-0lax">2019/12/08</td>
     <td class="tg-0lax"> Zinal (VS/CH)</td>
