@@ -53,7 +53,7 @@ show_tile: false
     <td class="tg-0lax">2025/02/16</td>
     <td class="tg-0lax"> Monthey (VS/CH)</td>
     <td class="tg-0lax"> good snow :) </td>
-    <td class="tg-0lax"><a href="https://s.geo.admin.ch/965c8d8f51">  swiss topo map </a> <a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/dent-de-valerette-8390/randonnee-a-ski/des-giettes-par-les-jeurs-5744/"> CAS portal </a></td>
+    <td class="tg-0lax"> <a href="https://www.sac-cas.ch/fr/cabanes-et-courses/portail-des-courses-du-cas/dent-de-valerette-8390/randonnee-a-ski/des-giettes-par-les-jeurs-5744/"> CAS portal </a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="winter/aigulles_mex.html"> Aigulles de Mex (1870 m) </a></td>
