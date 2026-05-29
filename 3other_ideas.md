@@ -16,6 +16,8 @@ nav-menu: true
 		<h3>Carbon-tax proposal</h3>
 		Here I estimate a possible carbon-taxation system, tailored for canton Vaud, where tax on circulation of  vehicles and gasoline   
 		<p>More details on the calculation can be found here: <a href="https://github.com/ggrrll/carbon_tax_proposal">carbon_tax_proposal</a></p> 
+		<h2> Other ideas </h2>
+		<h3> Petition against noise from lawn trimmers and leaf blowers </h3>
+		<a href="https://act.campax.org/petitions/interdiction-des-souffleuses-tronconneuses-et-tondeuses-bruyantes-ville-de-lausanne">Sign the petition here :)</a> 
 	</div>
-
 </div>
